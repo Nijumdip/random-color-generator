@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    background-color: black;
+    /* background-color: black; */
+    transition: 0.2s;
 }
 .main{
 width: 100%;
@@ -24,6 +25,7 @@ align-items: center;
 }
 button{
     width: 100%;
+    margin-top: 5px;
     background-color: black;
     color: white;
     border: none;
